@@ -1,4 +1,2 @@
 cdfootball
 ==========
-
-sij
